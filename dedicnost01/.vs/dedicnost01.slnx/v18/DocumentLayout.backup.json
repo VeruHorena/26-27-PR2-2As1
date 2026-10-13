@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\dedicnost01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\dedicnost01\\pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|solutionrelative:pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\dedicnost01\\kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|solutionrelative:kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\dedicnost01\\savec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|solutionrelative:savec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\dedicnost01\\zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1991760A-B3CA-4F67-8A20-6A2EFFB18764}|dedicnost01.csproj|solutionrelative:zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Pes.cs",
+              "RelativeDocumentMoniker": "Pes.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Pes.cs",
+              "RelativeToolTip": "Pes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:16:29.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zvire.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Zvire.cs",
+              "RelativeDocumentMoniker": "Zvire.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Zvire.cs",
+              "RelativeToolTip": "Zvire.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:21:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Savec.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Savec.cs",
+              "RelativeDocumentMoniker": "Savec.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Savec.cs",
+              "RelativeToolTip": "Savec.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:14:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kocka.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Kocka.cs",
+              "RelativeDocumentMoniker": "Kocka.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Kocka.cs",
+              "RelativeToolTip": "Kocka.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T12:08:20.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\dedicnost01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T11:59:59.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

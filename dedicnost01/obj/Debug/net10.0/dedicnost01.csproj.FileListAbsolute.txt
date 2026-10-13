@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\bin\Debug\net10.0\dedicnost01.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\bin\Debug\net10.0\dedicnost01.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\bin\Debug\net10.0\dedicnost01.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\bin\Debug\net10.0\dedicnost01.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\bin\Debug\net10.0\dedicnost01.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\refint\dedicnost01.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnost01.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\ref\dedicnost01.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\dedicnost01\obj\Debug\net10.0\dedicnos.24C1F1A5.Up2Date

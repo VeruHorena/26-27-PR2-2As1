@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\bin\Debug\net8.0\RazeniMin.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\bin\Debug\net8.0\RazeniMin.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\bin\Debug\net8.0\RazeniMin.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\bin\Debug\net8.0\RazeniMin.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\bin\Debug\net8.0\RazeniMin.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\refint\RazeniMin.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\RazeniMin.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\RazeniMin\RazeniMin\obj\Debug\net8.0\ref\RazeniMin.dll

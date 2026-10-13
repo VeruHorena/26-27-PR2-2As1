@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\RazeniMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A74FE7-8F64-425D-9DAB-14E9CEB82B9B}|RazeniMin\\RazeniMin.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\razenimin\\razenimin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A74FE7-8F64-425D-9DAB-14E9CEB82B9B}|RazeniMin\\RazeniMin.csproj|solutionrelative:razenimin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\RazeniMin\\RazeniMin\\Program.cs",
+              "RelativeDocumentMoniker": "RazeniMin\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\RazeniMin\\RazeniMin\\Program.cs",
+              "RelativeToolTip": "RazeniMin\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:03:36.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

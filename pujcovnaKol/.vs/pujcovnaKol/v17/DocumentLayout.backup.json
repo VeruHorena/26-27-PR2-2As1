@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\pujcovnakol\\pujcovnakol\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|solutionrelative:pujcovnakol\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\pujcovnakol\\pujcovnakol\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|solutionrelative:pujcovnakol\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr2\\26-27-pr2-2as1\\pujcovnakol\\pujcovnakol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8D8614-A0AA-46DB-B40E-4A6C518E20CD}|pujcovnaKol\\pujcovnaKol.csproj|solutionrelative:pujcovnakol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uzivatel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\uzivatel.cs",
+              "RelativeDocumentMoniker": "pujcovnaKol\\uzivatel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\uzivatel.cs",
+              "RelativeToolTip": "pujcovnaKol\\uzivatel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:10:21.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kolo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\kolo.cs",
+              "RelativeDocumentMoniker": "pujcovnaKol\\kolo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\kolo.cs",
+              "RelativeToolTip": "pujcovnaKol\\kolo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:10:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\Program.cs",
+              "RelativeDocumentMoniker": "pujcovnaKol\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR2\\26-27-PR2-2As1\\pujcovnaKol\\pujcovnaKol\\Program.cs",
+              "RelativeToolTip": "pujcovnaKol\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:09:02.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
