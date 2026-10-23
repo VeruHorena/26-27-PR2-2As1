@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\bin\Debug\net10.0\KouzelniciADraci.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\bin\Debug\net10.0\KouzelniciADraci.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\bin\Debug\net10.0\KouzelniciADraci.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\bin\Debug\net10.0\KouzelniciADraci.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\bin\Debug\net10.0\KouzelniciADraci.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\refint\KouzelniciADraci.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\KouzelniciADraci.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\ref\KouzelniciADraci.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR2\26-27-PR2-2As1\KouzelniciADraci\obj\Debug\net10.0\Kouzelni.F6758F23.Up2Date
