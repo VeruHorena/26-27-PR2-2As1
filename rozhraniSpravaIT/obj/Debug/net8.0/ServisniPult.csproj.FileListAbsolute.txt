@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\bin\Debug\net8.0\ServisniPult.exe
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\bin\Debug\net8.0\ServisniPult.deps.json
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\bin\Debug\net8.0\ServisniPult.runtimeconfig.json
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\bin\Debug\net8.0\ServisniPult.dll
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\bin\Debug\net8.0\ServisniPult.pdb
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.AssemblyInfo.cs
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.dll
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\refint\ServisniPult.dll
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.pdb
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ServisniPult.genruntimeconfig.cache
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\ref\ServisniPult.dll
+C:\Users\admin\Downloads\ServisniPult_TUI_fronta\01_Start_pro_zaky\obj\Debug\net8.0\Servisni.1E581F5F.Up2Date
